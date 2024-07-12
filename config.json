@@ -89,6 +89,15 @@
       {
         "manifest": "5d7a4f27b7799c566f05ae67964f5402c350f868ba39a89edb157ff23803fb1f",
         "reason": "Updated required"
+      },
+      {
+        "id": "TooManyGhosts",
+        "version": "0.1.3",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "9029e14cf28af01bb6263fec3b907dfcabe7857016802f96c8f361fdf90b0f2a",
+        "reason": "Updated required"
       }
     ],
     "cp": [
