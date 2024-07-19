@@ -98,6 +98,19 @@
       {
         "manifest": "9029e14cf28af01bb6263fec3b907dfcabe7857016802f96c8f361fdf90b0f2a",
         "reason": "Updated required"
+      },
+      {
+        "id": "AutoEnableSpecificGhosts",
+        "version": "0.2.0",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "b258afd5538cde6643145b4dd230c236f41953953b006cba23c9570e4569fbb7",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "86847d35938c289c32f95ae92840c63a6beb806b7f97fd5405fe66a7707c4c20",
+        "reason": "Update required"
       }
     ],
     "cp": [
