@@ -111,6 +111,11 @@
       {
         "manifest": "86847d35938c289c32f95ae92840c63a6beb806b7f97fd5405fe66a7707c4c20",
         "reason": "Update required"
+      },
+      {
+        "id": "AlteredWRNotifier",
+        "version": "0.2.0",
+        "reason": "Incompatible with the Platform Update"
       }
     ],
     "cp": [
