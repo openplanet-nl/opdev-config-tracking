@@ -116,6 +116,11 @@
         "id": "AlteredWRNotifier",
         "version": "0.2.0",
         "reason": "Incompatible with the Platform Update"
+      },
+      {
+        "id": "RoyalMatchMonitor",
+        "version": "1.4.0",
+        "reason": "Incompatible with the Platform Update"
       }
     ],
     "cp": [
