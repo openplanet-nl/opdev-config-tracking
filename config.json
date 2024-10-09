@@ -121,6 +121,11 @@
         "id": "RoyalMatchMonitor",
         "version": "1.4.0",
         "reason": "Incompatible with the Platform Update"
+      },
+      {
+        "id": "YAMM",
+        "version": "0.0.3-alpha-20240823",
+        "reason": "Incompatible with the Platform Update"
       }
     ],
     "cp": [
