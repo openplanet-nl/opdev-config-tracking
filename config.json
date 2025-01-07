@@ -2,7 +2,7 @@
   "next": {
     "outdated-builds": [
       {
-        "version": "1.26.4"
+        "version": "1.27.1"
       }
     ],
     "blocked-plugins": [
@@ -83,8 +83,7 @@
       },
       {
         "id": "anyghost",
-        "version": "1.3",
-        "reason": "Update required"
+        "version": "1.3"
       },
       {
         "manifest": "5d7a4f27b7799c566f05ae67964f5402c350f868ba39a89edb157ff23803fb1f",
@@ -92,8 +91,7 @@
       },
       {
         "id": "TooManyGhosts",
-        "version": "0.1.3",
-        "reason": "Update required"
+        "version": "0.1.3"
       },
       {
         "manifest": "9029e14cf28af01bb6263fec3b907dfcabe7857016802f96c8f361fdf90b0f2a",
@@ -101,8 +99,7 @@
       },
       {
         "id": "AutoEnableSpecificGhosts",
-        "version": "0.2.0",
-        "reason": "Update required"
+        "version": "0.2.0"
       },
       {
         "manifest": "b258afd5538cde6643145b4dd230c236f41953953b006cba23c9570e4569fbb7",
@@ -114,17 +111,14 @@
       },
       {
         "id": "AlteredWRNotifier",
-        "version": "0.2.0",
-        "reason": "Incompatible with the Platform Update"
+        "version": "0.2.0"
       },
       {
         "id": "RoyalMatchMonitor",
-        "version": "1.4.0",
-        "reason": "Incompatible with the Platform Update"
+        "version": "1.4.0"
       },
       {
-        "id": "YAMM",
-        "reason": "Incompatible with the Platform Update"
+        "id": "YAMM"
       }
     ],
     "cp": [
