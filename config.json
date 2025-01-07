@@ -125,11 +125,6 @@
       {
         "id": "YAMM",
         "reason": "Incompatible with the Platform Update"
-      },
-      {
-        "id": "TrackmaniaBingo",
-        "version": "5.0",
-        "reason": "Bingo 5.0 is incompatible with older Openplanet versions"
       }
     ],
     "cp": [
