@@ -89,28 +89,24 @@
         "version": "1.3"
       },
       {
-        "manifest": "5d7a4f27b7799c566f05ae67964f5402c350f868ba39a89edb157ff23803fb1f",
-        "reason": "Updated required"
+        "manifest": "5d7a4f27b7799c566f05ae67964f5402c350f868ba39a89edb157ff23803fb1f"
       },
       {
         "id": "TooManyGhosts",
         "version": "0.1.3"
       },
       {
-        "manifest": "9029e14cf28af01bb6263fec3b907dfcabe7857016802f96c8f361fdf90b0f2a",
-        "reason": "Updated required"
+        "manifest": "9029e14cf28af01bb6263fec3b907dfcabe7857016802f96c8f361fdf90b0f2a"
       },
       {
         "id": "AutoEnableSpecificGhosts",
         "version": "0.2.0"
       },
       {
-        "manifest": "b258afd5538cde6643145b4dd230c236f41953953b006cba23c9570e4569fbb7",
-        "reason": "Update required"
+        "manifest": "b258afd5538cde6643145b4dd230c236f41953953b006cba23c9570e4569fbb7"
       },
       {
-        "manifest": "86847d35938c289c32f95ae92840c63a6beb806b7f97fd5405fe66a7707c4c20",
-        "reason": "Update required"
+        "manifest": "86847d35938c289c32f95ae92840c63a6beb806b7f97fd5405fe66a7707c4c20"
       },
       {
         "id": "AlteredWRNotifier",
@@ -122,6 +118,15 @@
       },
       {
         "id": "YAMM"
+      },
+      {
+        "id": "GhostSync",
+        "version": "0.1.7",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "e43f200ed4b6e36415e69941d58084f27df35856fca1726a5ba934cdc62b2c29",
+        "reason": "Update required"
       }
     ],
     "cp": [
