@@ -125,7 +125,19 @@
         "reason": "Update required"
       },
       {
-        "manifest": "e43f200ed4b6e36415e69941d58084f27df35856fca1726a5ba934cdc62b2c29",
+        "manifest": "e43f200ed4b6e36415e69941d58084f27df35856fca1726a5ba934cdc62b2c29"
+      },
+      {
+        "id": "DID",
+        "version": "0.5.3",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "bc5ee9b0dd19e3e3f17ef3bb8b07ded29779c2f2153ae273a69c55d8551937b9",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "646a6a46a3420fbb1f599fe35793f56402d48b6fb42b4a1c2f1a1cec8e647f64",
         "reason": "Update required"
       }
     ],
