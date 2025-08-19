@@ -139,6 +139,11 @@
       {
         "manifest": "646a6a46a3420fbb1f599fe35793f56402d48b6fb42b4a1c2f1a1cec8e647f64",
         "reason": "Update required"
+      },
+      {
+        "id": "WarriorMedals",
+        "version": "1.6.1",
+        "reason": "Outdated API usage"
       }
     ],
     "cp": [
