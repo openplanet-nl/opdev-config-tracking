@@ -1,3 +1,206 @@
 {
-  "error": "Not Found"
+  "next": {
+    "outdated-builds": [
+      {
+        "version": "1.27.1"
+      }
+    ],
+    "blocked-plugins": [
+      {
+        "id": "Plugin_AltCamFix"
+      },
+      {
+        "id": "menu-bg-chooser",
+        "version": "1.2.1"
+      },
+      {
+        "id": "MLHook",
+        "version": "0.1.8"
+      },
+      {
+        "id": "menu-bg-refls",
+        "version": "1.0.2"
+      },
+      {
+        "id": "GhostScrubber",
+        "version": "1.1.5",
+        "reason": "Incompatible with the 20th Anniversary Update"
+      },
+      {
+        "id": "menu-bg-scene-randomizer",
+        "version": "0.1.3"
+      },
+      {
+        "id": "ManiaExchange",
+        "version": "1.2.1"
+      },
+      {
+        "id": "PlayerState",
+        "version": "1.2.0"
+      },
+      {
+        "id": "UploadToNadeoServices",
+        "version": "0.1.5"
+      },
+      {
+        "id": "BetterChat",
+        "version": "1.0.18"
+      },
+      {
+        "id": "COTDStats",
+        "version": "1.5.3"
+      },
+      {
+        "id": "MLFeedRaceData",
+        "version": "0.5.12"
+      },
+      {
+        "id": "MedalsInMenu",
+        "version": "2.1"
+      },
+      {
+        "id": "FreeCam-ShowCP",
+        "version": "0.2.2"
+      },
+      {
+        "id": "COTDRemakeQualifying",
+        "version": "0.6"
+      },
+      {
+        "id": "ghosts-pp",
+        "version": "0.3.9"
+      },
+      {
+        "id": "skins-inspector"
+      },
+      {
+        "manifest": "4b1a11400d312275709fc222fc4adc2d291a44e031dde2c89d91754c857ce5d9"
+      },
+      {
+        "id": "RGBCar",
+        "version": "1.0.0"
+      },
+      {
+        "id": "dips-plus-plus",
+        "version": "0.4.7"
+      },
+      {
+        "id": "anyghost",
+        "version": "1.3"
+      },
+      {
+        "manifest": "5d7a4f27b7799c566f05ae67964f5402c350f868ba39a89edb157ff23803fb1f"
+      },
+      {
+        "id": "TooManyGhosts",
+        "version": "0.1.3"
+      },
+      {
+        "manifest": "9029e14cf28af01bb6263fec3b907dfcabe7857016802f96c8f361fdf90b0f2a"
+      },
+      {
+        "id": "AutoEnableSpecificGhosts",
+        "version": "0.2.0"
+      },
+      {
+        "manifest": "b258afd5538cde6643145b4dd230c236f41953953b006cba23c9570e4569fbb7"
+      },
+      {
+        "manifest": "86847d35938c289c32f95ae92840c63a6beb806b7f97fd5405fe66a7707c4c20"
+      },
+      {
+        "id": "AlteredWRNotifier",
+        "version": "0.2.0"
+      },
+      {
+        "id": "RoyalMatchMonitor",
+        "version": "1.4.0"
+      },
+      {
+        "id": "YAMM"
+      },
+      {
+        "id": "GhostSync",
+        "version": "0.1.7",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "e43f200ed4b6e36415e69941d58084f27df35856fca1726a5ba934cdc62b2c29"
+      },
+      {
+        "id": "DID",
+        "version": "0.5.3",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "bc5ee9b0dd19e3e3f17ef3bb8b07ded29779c2f2153ae273a69c55d8551937b9",
+        "reason": "Update required"
+      },
+      {
+        "manifest": "646a6a46a3420fbb1f599fe35793f56402d48b6fb42b4a1c2f1a1cec8e647f64",
+        "reason": "Update required"
+      },
+      {
+        "id": "WarriorMedals",
+        "version": "1.6.1",
+        "reason": "Outdated API usage"
+      }
+    ],
+    "cp": [
+      {
+        "name": "Trackmania World Tour",
+        "id": "COMPETITION",
+        "level": 1,
+        "plugins": [
+          "adf347493c62d55ad6a2b2a5369411f43ad77074a2943efd39303fa44ada9a25",
+          "ffe4da5618a50a6f98dfdacb794db0525ea44606d0a278e7a3ff880130ff5894",
+          "89699d592094a8e2268d9b6ab7f2a2e4dee08f340b85e80a7f1525933cae69ae",
+          "190bd7f39f8b10c47142084a181affd606746b9f38c365fe052a17f6baf12d58",
+          "59eecf97e9f2920140a38260b88eeba07bdcff7ff0f1d8d255aa61a4a1a18156",
+          "be58e58563ce16ab40317de4ec9c410f962617a7d75bdc93cb25b5e173ed7b97",
+          "2888dfae16e4a7fa781a8c0a51bc56c21448d88d6d977968b7cca75a129a6285"
+        ]
+      }
+    ],
+    "wmuid": [
+      "vqxvpntW8rkSOgOfJwsTaH3_Jrj",
+      "ofv23ZZIZM4xrWWWeFg2EG4ex0i",
+      "padoVADBsBPBJ3qnYdD0cfplJf1",
+      "ZTpj0M5t8qCizOLAeeuoPgeGoP4",
+      "xYicOV646uLyx3z2o0pxYfZLSSd",
+      "GZiSa8iAK2agj4XU6z0SrUzP3x5",
+      "L4bvTBgBVsZxCvqbicWz3xcNGxe",
+      "bfOKa7RlwjitvJaI7kTZDfwsxQf",
+      "kej6jYv233FmzGA3fjzxwJs2Kxi",
+      "4_03QoS998KIcyj5Y1KTLUkXcoj",
+      "yRoh0tkspoZesHL6rsywl4ausJf",
+      "6ZtHzD12PG65TLrUmFJYZcqtXha",
+      "72TTQqhTDNMavo1hkfbUhLGWxq4",
+      "Vd76LbBqhERukr3bV9H8xtlv1b6",
+      "AkwKhDtJ5nAe7dumD78h06zJxim",
+      "VOTIHvRIzR0_cjT85sTHJF3q6id",
+      "HftYMXCIcBhewpy4i3A89Y3fIDb",
+      "diPe_yg4bin34DY8XCmFq_EhKlb",
+      "D6lp_msa2pUZ4a6Z4ewNiJoO3yb",
+      "jLOm7XcSpo74dBbNlP8Od9ii9Hf",
+      "NNOkGbqUddKGmYieCqswmYVLIgc",
+      "VfCH2WmxZ0L_Yl54FPJTi97cMx9",
+      "IFNwzNm1xYYI7fZigggKOak_Lvk",
+      "4asfLVxXsLflIPrDHcYsZLgF8t1",
+      "DyBaF_VKrfLL8m3joQT2QczTFw3",
+      "EjJgF8UqVlUzkBwcZLEDYkLNYLj"
+    ]
+  },
+  "dev": {
+    "cp": [
+      {
+        "name": "Test",
+        "id": "TEST",
+        "min-version": "1.25.0",
+        "plugins": [
+          "1bca77cd0578ccf05389207ee866301bb000fe445d4ade5471dbd5a262ed2804"
+        ]
+      }
+    ]
+  }
 }
