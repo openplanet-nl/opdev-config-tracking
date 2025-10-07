@@ -1,6 +1,7 @@
 {
-  "next": {
-    "outdated-builds": [
+  "error": "Not Found"
+}
+-builds": [
       {
         "version": "1.27.1"
       }
