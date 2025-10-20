@@ -1,10 +1,17 @@
 {
-  "next": {
-    "outdated-builds": [
+  "dev": {
+    "cp": [
       {
-        "version": "1.27.1"
+        "id": "TEST",
+        "min-version": "1.25.0",
+        "name": "Test",
+        "plugins": [
+          "1bca77cd0578ccf05389207ee866301bb000fe445d4ade5471dbd5a262ed2804"
+        ]
       }
-    ],
+    ]
+  },
+  "next": {
     "blocked-plugins": [
       {
         "id": "Plugin_AltCamFix"
@@ -23,8 +30,8 @@
       },
       {
         "id": "GhostScrubber",
-        "version": "1.1.5",
-        "reason": "Incompatible with the 20th Anniversary Update"
+        "reason": "Incompatible with the 20th Anniversary Update",
+        "version": "1.1.5"
       },
       {
         "id": "menu-bg-scene-randomizer",
@@ -121,16 +128,16 @@
       },
       {
         "id": "GhostSync",
-        "version": "0.1.7",
-        "reason": "Update required"
+        "reason": "Update required",
+        "version": "0.1.7"
       },
       {
         "manifest": "e43f200ed4b6e36415e69941d58084f27df35856fca1726a5ba934cdc62b2c29"
       },
       {
         "id": "DID",
-        "version": "0.5.3",
-        "reason": "Update required"
+        "reason": "Update required",
+        "version": "0.5.3"
       },
       {
         "manifest": "bc5ee9b0dd19e3e3f17ef3bb8b07ded29779c2f2153ae273a69c55d8551937b9",
@@ -142,15 +149,15 @@
       },
       {
         "id": "WarriorMedals",
-        "version": "1.6.1",
-        "reason": "Outdated API usage"
+        "reason": "Outdated API usage",
+        "version": "1.6.1"
       }
     ],
     "cp": [
       {
-        "name": "Trackmania World Tour",
         "id": "COMPETITION",
         "level": 1,
+        "name": "Trackmania World Tour",
         "plugins": [
           "adf347493c62d55ad6a2b2a5369411f43ad77074a2943efd39303fa44ada9a25",
           "ffe4da5618a50a6f98dfdacb794db0525ea44606d0a278e7a3ff880130ff5894",
@@ -162,12 +169,18 @@
         ]
       }
     ],
+    "outdated-builds": [
+      {
+        "version": "1.27.1"
+      }
+    ],
     "wmuid": [
+      "yWsSfX2jC_i2K4BsI_wMjin7KJb",
+      "3NnNVdzLy45hVl4duzv_JWsCysm",
       "vqxvpntW8rkSOgOfJwsTaH3_Jrj",
       "ofv23ZZIZM4xrWWWeFg2EG4ex0i",
       "padoVADBsBPBJ3qnYdD0cfplJf1",
       "ZTpj0M5t8qCizOLAeeuoPgeGoP4",
-      "xYicOV646uLyx3z2o0pxYfZLSSd",
       "GZiSa8iAK2agj4XU6z0SrUzP3x5",
       "L4bvTBgBVsZxCvqbicWz3xcNGxe",
       "bfOKa7RlwjitvJaI7kTZDfwsxQf",
@@ -188,19 +201,11 @@
       "IFNwzNm1xYYI7fZigggKOak_Lvk",
       "4asfLVxXsLflIPrDHcYsZLgF8t1",
       "DyBaF_VKrfLL8m3joQT2QczTFw3",
-      "EjJgF8UqVlUzkBwcZLEDYkLNYLj"
-    ]
-  },
-  "dev": {
-    "cp": [
-      {
-        "name": "Test",
-        "id": "TEST",
-        "min-version": "1.25.0",
-        "plugins": [
-          "1bca77cd0578ccf05389207ee866301bb000fe445d4ade5471dbd5a262ed2804"
-        ]
-      }
+      "EjJgF8UqVlUzkBwcZLEDYkLNYLj",
+      "bPIWXwwt_qwb4Oy68UM2YzHqU71",
+      "_5iDS5PKX4k1Hg3VnVYUlRVaSVe",
+      "LXOcfZjb9nPhfH4_BUoTyFyzj7m",
+      "QsPe2aBWwnEQC4cCDDRqCcTX8lb"
     ]
   }
 }
