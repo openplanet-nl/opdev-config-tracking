@@ -75,7 +75,11 @@
       },
       {
         "id": "ghosts-pp",
-        "version": "0.3.9"
+        "reason": "Update required",
+        "version": "0.4.5"
+      },
+      {
+        "manifest": "aa44864a510036ba63ecce53bc04879be10b7352a4baa531986c268352da16d0"
       },
       {
         "id": "skins-inspector"
