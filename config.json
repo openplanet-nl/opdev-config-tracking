@@ -155,6 +155,11 @@
         "id": "WarriorMedals",
         "reason": "Outdated API usage",
         "version": "1.6.1"
+      },
+      {
+        "id": "AutoEnablePBGhost",
+        "reason": "Requested by developer: causes crashes",
+        "version": "0.4.4.3"
       }
     ],
     "cp": [
