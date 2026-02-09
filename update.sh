@@ -1,5 +1,5 @@
 #!/bin/bash
-curl -s https://openplanet.dev/api/config | jq > config.json
+curl -s https://api.openplanet.dev/config | jq > config.json
 
 if [ -s config.json ]; then
 	git add config.json
