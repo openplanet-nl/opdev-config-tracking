@@ -3,11 +3,8 @@
     "cp": [
       {
         "id": "TEST",
-        "min-version": "1.25.0",
-        "name": "Test",
-        "plugins": [
-          "1bca77cd0578ccf05389207ee866301bb000fe445d4ade5471dbd5a262ed2804"
-        ]
+        "level": 20000,
+        "name": "Test"
       }
     ]
   },
