@@ -157,6 +157,10 @@
         "id": "AutoEnablePBGhost",
         "reason": "Requested by developer: causes crashes",
         "version": "0.4.4.3"
+      },
+      {
+        "id": "Predictor",
+        "reason": "Backend is down, causing API spam"
       }
     ],
     "cp": [
