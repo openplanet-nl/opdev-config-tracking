@@ -160,7 +160,8 @@
       },
       {
         "id": "Predictor",
-        "reason": "Backend is down, causing API spam"
+        "reason": "Update required",
+        "version": "3"
       }
     ],
     "cp": [
