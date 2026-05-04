@@ -162,6 +162,11 @@
         "id": "Predictor",
         "reason": "Update required",
         "version": "3"
+      },
+      {
+        "id": "AuthorTimeCheck",
+        "reason": "Spams the Nadeo API",
+        "version": "0.4"
       }
     ],
     "cp": [
