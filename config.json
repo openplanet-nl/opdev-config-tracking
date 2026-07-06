@@ -172,6 +172,11 @@
         "id": "Regenerate-Genealogies",
         "reason": "Breaks maps outside of editor",
         "version": "1.0.0"
+      },
+      {
+        "id": "PlayMapExtended",
+        "reason": "Trackmania Exchange API spam",
+        "version": "1.5"
       }
     ],
     "cp": [
