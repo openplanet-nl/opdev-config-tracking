@@ -173,7 +173,15 @@
         "version": "1.5"
       }
     ],
-    "cp": null,
+    "cp": [
+      {
+        "name": "Generic Competition",
+        "id": "COMPETITION",
+        "level": 10000,
+        "min-version": "1.0",
+        "rule": "allow"
+      }
+    ],
     "outdated-builds": [
       {
         "version": "1.27.1"
