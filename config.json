@@ -1,12 +1,6 @@
 {
   "dev": {
-    "cp": [
-      {
-        "id": "TEST",
-        "level": 20000,
-        "name": "Test"
-      }
-    ]
+    "cp": null
   },
   "next": {
     "blocked-plugins": [
@@ -179,14 +173,7 @@
         "version": "1.5"
       }
     ],
-    "cp": [
-      {
-        "id": "COMPETITION",
-        "level": 20000,
-        "name": "Trackmania World Tour",
-        "plugins": []
-      }
-    ],
+    "cp": null,
     "outdated-builds": [
       {
         "version": "1.27.1"
