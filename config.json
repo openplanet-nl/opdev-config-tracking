@@ -1,6 +1,17 @@
 {
   "dev": {
-    "cp": null
+    "cp": [
+      {
+        "name": "El Diablo Birthday Endurance Cup",
+        "id": "ELDIABLO26",
+        "level": 10000,
+        "min-version": "1.0",
+        "rule": "block",
+        "plugins": [
+          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5"
+        ]
+      }
+    ]
   },
   "next": {
     "blocked-plugins": [
@@ -180,6 +191,16 @@
         "level": 10000,
         "min-version": "1.0",
         "rule": "allow"
+      },
+      {
+        "name": "El Diablo Birthday Endurance Cup",
+        "id": "ELDIABLO26",
+        "level": 10000,
+        "min-version": "1.0",
+        "rule": "block",
+        "plugins": [
+          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5"
+        ]
       }
     ],
     "outdated-builds": [
