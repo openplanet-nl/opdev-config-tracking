@@ -8,7 +8,9 @@
         "min-version": "1.0",
         "rule": "block",
         "plugins": [
-          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5"
+          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5",
+          "fc2d8560708205e6ba0a2739ba1cbe8c24dd7834eab1d903738c32934c12c2a0",
+          "66f48d33b8ba80e602dbb50a5bfe044557f5806a6b9c5db8731a256cfcac8a8b"
         ]
       }
     ]
@@ -199,7 +201,9 @@
         "min-version": "1.0",
         "rule": "block",
         "plugins": [
-          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5"
+          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5",
+          "fc2d8560708205e6ba0a2739ba1cbe8c24dd7834eab1d903738c32934c12c2a0",
+          "66f48d33b8ba80e602dbb50a5bfe044557f5806a6b9c5db8731a256cfcac8a8b"
         ]
       }
     ],
