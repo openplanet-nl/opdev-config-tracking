@@ -1,6 +1,29 @@
 {
   "dev": {
-    "cp": null
+    "cp": [
+      {
+        "name": "Kacky",
+        "id": "KACKY",
+        "level": 1,
+        "min-version": "1.0",
+        "rule": "block",
+        "plugins": [
+          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5",
+          "b215df518d043aa305b13fa82913dd1d286f1f9cb2411266827f5b5183162c88",
+          "22854307d864a87fdc4b01a24df80f47dcc8d7b05ad3073e28ec331d9cb8c21d",
+          "false",
+          "69ece4e196b7310c4adf3a1d0b02bd9c00df8b9bb62596a90f340a1905961c9a",
+          "80f2607cd78637bfac179a0559ada611b8aa3a19f6154e3435d6ed4a1017ac8d",
+          "6b5e96b8aa34719480a7962125bad2e14d98779718ccf6dd3ad1848bb78a61e0",
+          "false",
+          "afe934238c89e6e12c49d9f1c92083fd562e285eae196d709d690e0ce2ea6bfe",
+          "967823b6c3ed6a4a3ef87ee658cb7c2050a251b8c1254723a1693bba9061929e",
+          "dc6d9ee3824559efeed3dded83db88ad8ff1f6c0caeead900109aeea0513d175",
+          "9f63e18f5ebc78c11ae79190960ed50eabcb2dfb8c2184e2b018705c88265175",
+          "fc2d8560708205e6ba0a2739ba1cbe8c24dd7834eab1d903738c32934c12c2a0"
+        ]
+      }
+    ]
   },
   "next": {
     "blocked-plugins": [
@@ -180,6 +203,28 @@
         "level": 10000,
         "min-version": "1.0",
         "rule": "allow"
+      },
+      {
+        "name": "Kacky",
+        "id": "KACKY",
+        "level": 1,
+        "min-version": "1.0",
+        "rule": "block",
+        "plugins": [
+          "08a7b20606a8344547b73a531e98f7ca8ac6b3b4a77bfcb3934c7c72d7ccc8d5",
+          "b215df518d043aa305b13fa82913dd1d286f1f9cb2411266827f5b5183162c88",
+          "22854307d864a87fdc4b01a24df80f47dcc8d7b05ad3073e28ec331d9cb8c21d",
+          "false",
+          "69ece4e196b7310c4adf3a1d0b02bd9c00df8b9bb62596a90f340a1905961c9a",
+          "80f2607cd78637bfac179a0559ada611b8aa3a19f6154e3435d6ed4a1017ac8d",
+          "6b5e96b8aa34719480a7962125bad2e14d98779718ccf6dd3ad1848bb78a61e0",
+          "false",
+          "afe934238c89e6e12c49d9f1c92083fd562e285eae196d709d690e0ce2ea6bfe",
+          "967823b6c3ed6a4a3ef87ee658cb7c2050a251b8c1254723a1693bba9061929e",
+          "dc6d9ee3824559efeed3dded83db88ad8ff1f6c0caeead900109aeea0513d175",
+          "9f63e18f5ebc78c11ae79190960ed50eabcb2dfb8c2184e2b018705c88265175",
+          "fc2d8560708205e6ba0a2739ba1cbe8c24dd7834eab1d903738c32934c12c2a0"
+        ]
       }
     ],
     "outdated-builds": [
