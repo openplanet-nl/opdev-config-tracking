@@ -194,6 +194,11 @@
         "id": "PlayMapExtended",
         "reason": "Trackmania Exchange API spam",
         "version": "1.5"
+      },
+      {
+        "id": "multidash",
+        "reason": "Update required",
+        "version": "0.1.2"
       }
     ],
     "cp": [
