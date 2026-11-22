@@ -198,6 +198,11 @@
         "id": "multidash",
         "reason": "Update required",
         "version": "0.1.2"
+      },
+      {
+        "id": "HUDPicker",
+        "reason": "Update required",
+        "version": "2.4.0"
       }
     ],
     "cp": [
